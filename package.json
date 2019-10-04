@@ -1,7 +1,8 @@
 {
   "name": "swagger-express-middleware",
-  "version": "2.0.3",
+  "version": "2.1.0",
   "description": "Swagger middleware and mocks for Express",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "express",
     "swagger",
@@ -17,10 +18,10 @@
     "name": "James Messinger",
     "url": "https://jamesmessinger.com"
   },
-  "homepage": "https://apitools.dev/swagger-express-middleware/",
+  "homepage": "https://github.com/KudosInc/swagger-express-middleware",
   "repository": {
     "type": "git",
-    "url": "https://github.com/APIDevTools/swagger-express-middleware.git"
+    "url": "https://github.com/KudosInc/swagger-express-middleware.git"
   },
   "license": "MIT",
   "main": "lib/index.js",
