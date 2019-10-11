@@ -1,6 +1,6 @@
 {
   "name": "@kudosinc/swagger-express-middleware",
-  "version": "2.1.1",
+  "version": "2.1.4",
   "description": "Swagger middleware and mocks for Express",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
